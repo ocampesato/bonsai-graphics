@@ -1,0 +1,3 @@
+This project contains an assortment of graphics code samples (think "swatches") that show you how to render 2D shapes, such as rectangles, circles, arcs, and Bezier curves in conjunction with curves such as Archimedean spirals, Cissoids, Cochleoids, Conchoids, Lissajous curves and Lituus curves.
+
+The code samples were tested in Chrome 21 on a Macbook (OSX 10.8.2), and they are loosely based on various equations, liberally interpreted in order to create some aesthetically pleasing eye-candy graphics. Please keep in mind that these code samples are primarily for entertainment.
